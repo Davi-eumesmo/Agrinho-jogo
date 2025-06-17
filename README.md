@@ -1,5 +1,3 @@
-Com certeza! Aqui está um README.md que você pode usar para o seu projeto no GitHub, destacando as principais características e como jogar:
-
 🌾 Campo & Cidade: A Colheita! 🏙️
 Um jogo simples e divertido de fazenda e estratégia desenvolvido em p5.js! Plante, cultive e colha seus vegetais, gerencie seu dinheiro e expanda sua fazenda, tudo isso enquanto observa o tempo passar e o cenário muda.
 
